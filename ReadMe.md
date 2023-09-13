@@ -43,7 +43,7 @@ npm install video-encryptor
 To use **video-encryptor**, you need to import it into your Node.js project:
 
 ```javascript
-const { VideoEncryptor } = require("video-encryptor");
+const VideoEncryptor  = require("video-encryptor");
 const videoEncryptor = new VideoEncryptor();
 ```
 
