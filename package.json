@@ -18,6 +18,7 @@
   "author": "Abhishek Chamoli",
   "license": "ISC",
   "dependencies": {
-    "crypto-js": "^4.1.1"
+    "crypto-js": "^4.1.1",
+    "video-encryptor": "^3.0.0"
   }
 }
